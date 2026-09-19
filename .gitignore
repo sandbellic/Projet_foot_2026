@@ -1,6 +1,19 @@
-# Environnements Python
+# Environnement virtuel
 .venv/
+
+# Python
 __pycache__/
 *.pyc
+
+# Jupyter
 .ipynb_checkpoints/
+
+# uv
 uv.lock
+
+# Build / distribution
+build/
+dist/
+
+# VS Code
+.vscode/
