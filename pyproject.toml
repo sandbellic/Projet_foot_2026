@@ -1,7 +1,7 @@
 [project]
 name = "projet-foot"
 version = "0.1.0"
-description = "Add your description here"
+description = "Machine Learning - Projet football, coupe du monde"
 readme = "README.md"
 authors = [
     { name = "sandrine", email = "sand.bellicaud@laposte.net" }
