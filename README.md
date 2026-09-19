@@ -1,3 +1,20 @@
+Projet_foot_2026 est réalisé à partir des mini-projets Data / IA proposés par le site ** Machine Learnia Ltd ** durant l'été 2026.
+
+Guillaume Saint-Cirgue, Fondateur du site et Senior Data Scientist avec plus de 10 ans d’expérience dans les secteurs de la tech, l’aviation, la robotique, l’énergie, et les usines connectées nous fait partager ses connaissances dans le domaine de l’intelligence artificielle.
+
+Au travers de projets partagés, guidés étape par étape, avec des explications claires, il aborde des sujets relatifs :
+ * au Machine Learning - Projet football, coupe du monde 
+
+J'ai réalisé ce projet et ai décidé de le modifier librement en ajoutant mes propres commentaires et codes.
+
+Environnement : 
+1 . Utilisation de uv comme outil de gestion de l'environnement de Python : pour créer facilement un environnement virtuel,
+décrire le projet et gérer mes dépendances via le fichier pyproject.toml 
+2 . Présence d'un folder dist contenant une version exécutable du projet (simple .exe ou possibilité d'avoir un setup), pas de représentation graphique.
+
+
+********************************************
+
 L'objectif ici est de construire un modèle de Machine Learning capable de prédire le vainqueur d'un match de football, à l'international. Ici vainqueur du mondial 2026.
 
 La prédiction va s'appuyer sur les données disponibles passées.
